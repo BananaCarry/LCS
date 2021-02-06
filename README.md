@@ -3,6 +3,7 @@ I'm Bogdan Emilian,
 this is a project made for Logic for Computer Science, which takes in a logical proposition, then determines and prints the truth table of it into an excel file.
 
 To run this program, you have to import it into PyCharm. No other components needed, since everything you need is installed into this project.
+I also attached some examples of the program output in the project. The name of the files: "1-a.xlsx", "1-b.xlsx", "1-c.xlsx", "1-d.xlsx". They are all exercises from our Homework.
 
 After importing it into Pycharm, you have to Hit run, then compile the "Excel.py" file to get everything running.
 Then, a Console will pop up on the bottom of the screen of PyCharm, where first, you will have to typa a name for the Excel file which is going to be created.
